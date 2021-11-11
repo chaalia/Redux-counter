@@ -1,5 +1,4 @@
-https://618cff0eb201191ac5db70e8--wonderful-brown-67f9b9.netlify.app/
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/84f26dba-e507-46ed-add7-7fe01cf07a01/deploy-status)](https://app.netlify.com/sites/wonderful-brown-67f9b9/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
